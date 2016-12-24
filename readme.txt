@@ -4,4 +4,5 @@ yoo
 Git was yeah
 Git tracks chages
 git git git
-create a new branch is quick & simple
+create a new branch is quick and simple
+
