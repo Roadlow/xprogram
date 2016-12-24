@@ -4,4 +4,4 @@ yoo
 Git was yeah
 Git tracks chages
 git git git
-create a new branch div
+create a new branch is quick AND simple
